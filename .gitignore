@@ -11,6 +11,7 @@ target/
 # Web IDE, App Studio
 .che/
 .gen/
+.vscode
 
 # MTA
 *_mta_build_tmp
